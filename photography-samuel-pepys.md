@@ -77,3 +77,15 @@
 **wide shot, bromoil photograph of 1665 london, street, woman whipping a child, dynamic motion, blur --ar 3:2**
 
 **wide shot, bromoil photograph of 1665 london, street, woman flogged by a cart, dynamic motion, blur --ar 3:2**
+
+**wide shot, bromoil photograph of 1665 london, street, I did see a woman flogged at the cart's tail through the streets, which was a sad sight to see, dynamic motion, blur --ar 3:2**
+
+**wide shot, bromoil photograph of 1665 london, street, An illustration from the 1813 edition of Henry Fielding’s The Female Husband depicts Mary Hamilton being flogged for supposedly deceiving a woman into marriage. --ar 3:2**
+
+**wide shot, bromoil photograph of 1665 london, woman, 30 years old, She is a most ugly, foul, dirty, and I think she does it on purpose, for she had a fine suit of clothes on, but all ragged and torn. --ar 3:2**
+
+bromoil photograph of 1665 london, samuel pepys in his pajamas in his bed chambers with a pretty woman, 20 years old --ar 3:2
+
+bromoil photograph of 1665 london, interior of the tower of london, I went to see poor Tom Killigrew, who is now a prisoner in the Tower, and I did give him 5 shillings to buy him something to eat, poor man --ar 3:2
+
+bromoil photograph of 1665 london, plague of london, The town grows very sickly and many die; but they are fain to bury them by stealth, almost, there being no room to bury them in the usual place; so that people do begin to fear they shall not have burial when they come to die --ar 3:2
